@@ -1,0 +1,10 @@
+In the folder structure there are 2 folders:
+->src - where the source code is presnt 
+->dist - where the static assets are built[when you build your app like react].
+
+
+
+# Dependencies
+
+npm init
+npm i webpack webpack-cli
